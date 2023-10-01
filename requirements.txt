@@ -1,0 +1,8 @@
+matplotlib
+keras-tuner
+Pillow
+argparse
+numpy==1.23.5
+opencv-python==4.7.0
+tensorflow==2.13.0rc0
+json==2.0.9
